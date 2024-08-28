@@ -4,4 +4,6 @@ MY INTRODUCTION:
 
 . I AM AREEBAH KHAN
 . I HAVE STUDIED PRE ENGINEERING FROM BAHRIA COLLEGE KARSAZ
-. 
+. I LIKE PLAYING VOLLEYBALL
+![batman](https://github.com/user-attachments/assets/19fee0cb-eaf0-4a2b-9da5-27613b9acef7)
+
