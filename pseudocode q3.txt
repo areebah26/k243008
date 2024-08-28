@@ -1,0 +1,20 @@
+create a small calculator which only does " + " or " - " operations.
+
+START
+
+input number 1 = k = 4
+input number 2 = l = 6
+input number 3 = m = 8
+
+SET sum to 0
+
+SET the operator 
+
+if the operator is " + "
+    print " k+l+m "
+else if the operator is " - "
+    print " k-l-m "
+else
+    print "syntax error"
+
+END
