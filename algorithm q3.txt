@@ -1,0 +1,20 @@
+implement an algorithm for making a simple calculator with all the operators
+
+ask the user a number " k "
+ask the user a second number " l "
+ask the user an operator
+
+SET sum to 0
+
+if the operator is "+ "
+  print" k+l "
+  else if the operator is "- "
+       print" k-l"
+  else if the operator is "* "
+       print" k*l "
+  else if the operator is " /"
+       print" k/l "
+   else if the operator is "% "
+       print" k%l "
+else 
+  print" syntax error "
