@@ -1,0 +1,31 @@
+implement an algorithm where the user enters a number and an appropriate month is displayed
+
+ask the user to enter a number between 1-12
+
+if number = 1
+  print " the month is JANUARY "
+else if number = 2
+  print " the month is FEBRUARY"
+else if number = 3
+   print " the month is MARCH"
+else if number = 4
+   print " the month is   APRIL"
+else if number = 5
+   print " the month is MAY"
+else if number = 6
+   print " the month is JUNE"
+else if number = 7
+   print " the month is JULY"
+else if number = 8
+   print " the month is AUGUST"
+else if number = 9
+   print " the month is SEPTEMBER"
+else if number = 10
+   print " the month is OCTOBER"
+else if number = 11
+   print " the month is NOVEMBER"
+else if number = 12
+   print " the month is DECEMBER"
+
+else 
+   print " incorrect number"
