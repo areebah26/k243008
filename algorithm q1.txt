@@ -1,0 +1,19 @@
+implement an algorithm for determining if Nth is a divisor of n number. If so determine if it is even or odd.
+
+Ask the user to enter the number "n"
+Ask the user to enter the divsior "N"
+
+if n % N = 0
+  print " N is a divisor of n "
+  if n % 2 = 0
+     print " N is even "
+  else 
+     print" N is odd"
+
+else 
+  print " N is not a divisor of n "
+
+if N = 0
+   print " syntax error"
+
+  
