@@ -1,0 +1,17 @@
+Take three variables as input and add them without using "+" operator
+
+START
+
+input number 1 = k = 11
+input number 2 = l = 15
+input number 3 = m = 17
+
+SET sum to 0
+
+SET sum to x = -k-l-m
+
+multiply x with " - "
+
+print " The sum is equals to x "
+
+END
