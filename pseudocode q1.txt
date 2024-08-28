@@ -1,0 +1,20 @@
+FInd the maximum of three numbers.
+START
+
+input number 1 = k = 43
+input number 2 = l = 46
+input number 3 = m = 49
+
+if k>l and k>m;
+   then print " k is maximum "
+
+if l>k and l>m;   
+   then print " l is maximum "
+
+if m>k and m>l;
+    then print " m is maximum "
+
+else 
+    print " the given numbers are equal "
+
+END    
