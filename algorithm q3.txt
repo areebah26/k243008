@@ -8,13 +8,15 @@ SET sum to 0
 
 if the operator is "+ "
   print" k+l "
-  else if the operator is "- "
-       print" k-l"
-  else if the operator is "* "
-       print" k*l "
-  else if the operator is " /"
-       print" k/l "
-   else if the operator is "% "
-       print" k%l "
+else if the operator is "- "
+  print" k-l"
+else if the operator is "* "
+  print" k*l "
+else if l = 0 and the operator is " /"
+  print" mathematical error"
+   else print" k/l "
+else if the operator is "% "
+  print" k%l "
+  
 else 
   print" syntax error "
